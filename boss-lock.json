@@ -4,16 +4,16 @@
 	"installedModules": {
 		"github.com/hashload/horse": {
 			"name": "horse",
-			"version": "1.7.7",
-			"hash": "b0bce44e36b320a8ca6bc864f137cb9d",
+			"version": "2.0.13",
+			"hash": "32daa5a81f115ecc285cbbbbdbcddcea",
 			"artifacts": {},
 			"failed": false,
 			"changed": false
 		},
 		"github.com/paolo-rossi/delphi-jose-jwt": {
 			"name": "delphi-jose-jwt",
-			"version": "v2.5.2",
-			"hash": "589e56e202f3acd41b4021314c54518c",
+			"version": "v3.0.0",
+			"hash": "e07d23afdc06adef34b7fbbabd97ce83",
 			"artifacts": {},
 			"failed": false,
 			"changed": false
